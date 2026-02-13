@@ -96,8 +96,8 @@ nn_few_shot/
 ## Installation
 
 ```bash
-git clone https://github.com/AstyanM/nn_few_shot.git
-cd nn_few_shot
+git clone https://github.com/AstyanM/few-shot-learning-clip.git
+cd few-shot-learning-clip
 pip install -r requirements.txt
 ```
 
