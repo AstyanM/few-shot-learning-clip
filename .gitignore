@@ -1,2 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (downloaded at runtime)
 data/
-/best_cocoop_model.pt
+
+# Model weights
+*.pt
+*.pth
+
+# TensorBoard logs
+runs/
+
+# Misc
+*.log
